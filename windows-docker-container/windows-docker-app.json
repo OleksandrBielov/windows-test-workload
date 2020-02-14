@@ -18,8 +18,8 @@
     ],
     [
       "@region",
-      "IS",
-      "windows-your-region"
+      "LIKE",
+      "windows.*"
     ]
   ],
   "container": {
